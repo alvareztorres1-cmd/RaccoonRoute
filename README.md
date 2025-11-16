@@ -1,3 +1,6 @@
+RaccoonRoute - продолжение проекта Opentracks
+<img src="enot.png">
+
 # <img src="drawable-svg/LOGO.svg" alt="OpenTracks logo" height="40"></img> OpenTracks: a sport tracker
 
 _OpenTracks_ is a sport tracking application that completely respects your privacy.
