@@ -1,5 +1,5 @@
-RaccoonRoute - продолжение проекта Opentracks
-<img src="enot.png">
+<strong><h1>RaccoonRoute</h1> - продолжение проекта Opentracks</strong>
+<img src="rr.png">
 
 # <img src="drawable-svg/LOGO.svg" alt="OpenTracks logo" height="40"></img> OpenTracks: a sport tracker
 
